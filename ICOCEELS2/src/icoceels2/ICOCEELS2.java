@@ -28,7 +28,6 @@ public class ICOCEELS2 extends Application {
         window = primaryStage; 
         window.getIcons().add(new Image("File:mapua.png")); 
         // Set Scene
-        System.out.println("👌");
         Menu scenes = new Menu();
         window.setTitle("ICOCELS v2");
         window.setScene(scenes.loginMethod(window));
