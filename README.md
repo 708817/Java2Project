@@ -1,2 +1,2 @@
 # Java2Project
-test
+This is just a school "No ID" virtual logbook system. lol
