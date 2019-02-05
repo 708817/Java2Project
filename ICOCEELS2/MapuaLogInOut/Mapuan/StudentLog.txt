@@ -1,0 +1,6 @@
+[01/26/2019 08:50:57] Daniel Torralba (2015112806): Logged Off
+[01/26/2019 08:52:24] Daniel Torralba (2015112806): Logged In REASON: Lost ID
+[01/26/2019 08:52:31] Daniel Torralba (2015112806): Logged Off
+[01/26/2019 09:25:56] Daniel Torralba (2015112806): Logged In REASON: Destroyed ID
+[01/26/2019 13:26:21] Daniel Torralba (2015112806): Logged Off
+[01/26/2019 13:26:48] Daniel Torralba (2015112806): Logged In REASON: missing ID

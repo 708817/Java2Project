@@ -1,0 +1,5 @@
+[01/26/2019 09:31:15] Kevin: Logged In (CN: 12) REASON: Enrollment
+[01/26/2019 09:36:00] Kevin: Logged Off (CN: 12)
+[01/26/2019 12:39:08] Torralba: Logged In (CN: 12) REASON: Payment[01/26/2019 12:56:26] 1: Logged In (CN: 13) REASON: 
+[01/26/2019 12:56:56] 1: Logged Off (CN: 13)
+[01/26/2019 13:28:08] Daniel: Logged In (CN: 15) REASON: Meeting
